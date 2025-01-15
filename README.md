@@ -9,5 +9,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onlyfence&show_icons=true&hide_border=true&theme=radical" alt="Jiahao's stats" width="56%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyfencce&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Jiahao's lang" width="42.7%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyfence&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Jiahao's lang" width="42.7%">
 </div>
