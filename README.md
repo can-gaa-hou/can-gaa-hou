@@ -1,5 +1,4 @@
 - 👋 Hi, I’m **Jiahao** @can-gaa-hou <a href="https://hits.sh/github.com/can-gaa-hou/hits/"><img alt="Hits" src="https://hits.sh/github.com/can-gaa-hou/hits.svg?label=visitors&extraCount=50&labelColor=007ec6"/></a>
-- 📫 How to contact me: jiahaochen535@gmail.com
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
